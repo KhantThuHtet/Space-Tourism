@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://khantthuhtet.github.io/Space-Tourism-Frontend-Mentor/)
+- Solution URL: [solution](https://your-solution-url.com)
+- Live Site URL: [demo](https://khantthuhtet.github.io/Space-Tourism/)
 
 
 ### Built with
