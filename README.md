@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-space-tourism-multipage-website-t2z3nu3_s)
 - Live Site URL: [demo](https://khantthuhtet.github.io/Space-Tourism/)
 
 
