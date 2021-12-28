@@ -40,9 +40,11 @@ window.onscroll = () => {
     }
   });
   let navMenu = document.getElementsByClassName("nav-menu")[0];
-  if (current.classList.contains("home-tab"))
+  if (window.innerWidth > 768) {
+    if (current.classList.contains("home-tab"))
     navMenu.style.backgroundColor = "hsla(0, 0%, 100%, 0.1)";
-  else navMenu.style.backgroundColor = "rgba(66, 66, 66, 0.521)";
+    else navMenu.style.backgroundColor = "rgba(66, 66, 66, 0.521)";
+  }
   navItems.forEach((item) => {
     item.classList.remove("active");
     current.classList.add("active");
